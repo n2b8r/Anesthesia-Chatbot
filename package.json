@@ -1,0 +1,15 @@
+{
+  "name": "Anesthesia-Chatbot",
+  "version": "0.0.0",
+  "description": "A source of information for patients about the anesthesia process. The operating room is a mysterious and magical place that few people - even those who work in medicine - really know much about. You have questions. The Anesthesia Chatbot has answers!!",
+  "main": "behavior/scripts/index.js",
+  "scripts": {
+    "start": "initai-dev-server"
+  },
+  "author": "<my-name> <<my-email-address>>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "initai-dev-server": "^0.4.8",
+    "initai-node": "~0.0.7"
+  }
+}
